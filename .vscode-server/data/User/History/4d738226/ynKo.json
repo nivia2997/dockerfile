@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "remote.SSH.remotePlatform": {
+        "ec2-54-90-96-130.compute-1.amazonaws.com": "linux",
+        "192.168.100.21": "linux",
+        "192.168.100.29": "linux",
+        "192.168.100.38": "linux",
+        "ec2-54-226-244-95.compute-1.amazonaws.com": "linux",
+        "ec2-44-203-90-130.compute-1.amazonaws.com": "linux",
+        "ec2-44-203-167-212.compute-1.amazonaws.com": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}
